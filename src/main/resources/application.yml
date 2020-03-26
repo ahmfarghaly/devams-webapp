@@ -1,0 +1,6 @@
+welcome: 
+  message: Devams
+  header: Sample deployed on cloud infra
+spring:   thymeleaf:    cache: false
+    
+server:  port: 7000
